@@ -1,0 +1,24 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "lerning project",
+  "main": "index.js",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajdipGhosh99/test.git"
+  },
+  "author": "Rajdip Ghosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajdipGhosh99/test/issues"
+  },
+  "homepage": "https://github.com/RajdipGhosh99/test#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
